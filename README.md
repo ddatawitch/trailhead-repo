@@ -1,5 +1,5 @@
 # trailhead-repo
-Repository for TrailHeaDX Bootcamp pre-work
+Repository for TrailHeaDX Bootcamp 2018 pre-work
 
 Changing the file for trailhead exercise step 2
 
